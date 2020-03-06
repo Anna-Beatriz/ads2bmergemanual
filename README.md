@@ -1,2 +1,10 @@
 # ads2bmergemanual
-Aula Merge
+# Ferramentas de controle de versão:
+
+* Mercurial
+
+* GitHub
+
+* Subversion
+
+* CVS
